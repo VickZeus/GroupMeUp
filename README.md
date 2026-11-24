@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="banner.gif" alt="MatchKARO" width="640">
+  <img src="banner.gif" alt="GroupMeUp" width="640">
 </h1>
 
 <p align="center"><b>Find people with the same vibe.</b></p>
 
-MatchKARO is a quiz-based matching app. Users create multiple-choice quizzes, take each other's quizzes, and get scored. A scheduled machine-learning job then groups users with similar quiz-score profiles into clusters, which is the foundation for matching people who think alike.
+GroupMeUp is a quiz-based matching app. Users create multiple-choice quizzes, take each other's quizzes, and get scored. A scheduled machine-learning job then groups users with similar quiz-score profiles into clusters, which is the foundation for matching people who think alike.
 
 Built with **Next.js**, **MongoDB Atlas**, **Supabase**, **Upstash Redis**, and a **scikit-learn** K-Means pipeline that runs on **GitHub Actions**.
 
