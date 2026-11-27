@@ -61,9 +61,9 @@ export default function Home() {
   return (
     <div className={`${press_start_2p.variable} ${style.template}`}>
       <div className={style.name}>
-        <div>Match</div>
+        <div>GroupMe</div>
         <div className={style.rowF}>
-          KARO<GRID />
+          Up<GRID />
         </div>
       </div>
     </div>

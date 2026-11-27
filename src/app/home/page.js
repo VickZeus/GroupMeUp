@@ -30,7 +30,7 @@ function TopSection(){
     })
     return (
         <div className="pix flex gap-1 justify-start mt-2 ml-2"> 
-            MatchKARO
+            GroupMeUp
             <GRIDR/>
             <div className="self-end ml-auto">{
                 (status)? 

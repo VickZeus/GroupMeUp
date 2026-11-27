@@ -8,8 +8,8 @@ export default function Footer() {
             <div className="flex flex-row gap-1 justify-between items-center">
                 {/* Brand */}
                 <div className="pix flex flex-col justify-center items-center w-25">
-                    <div className="text-[30px] text-white">MK</div>
-                    <div className="text-[4px]">Match It Up!</div>
+                    <div className="text-[30px] text-white">GMU</div>
+                    <div className="text-[4px]">Go Find Them!</div>
                 </div>
 
             <div className="flex flex-row flex-wrap gap-2 justify-center pix">
